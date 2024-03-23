@@ -1,7 +1,7 @@
 # CsvPrefixSearch
-##Implementation of prefix search in a CSV File
+## Implementation of prefix search in a CSV File
 
-###Usage
+### Usage
 When starting the program, the following parameters are specified:
 --data example.csv — the path to the csv file,
 --indexed-column-id 3 — column for which the search is performed,
